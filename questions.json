@@ -1,41 +1,41 @@
 {
   "friendly": [
     {
-      "id": 1,
+      "id": 0,
       "question": "What's your favorite way to spend a weekend?"
     },
     {
-      "id": 2,
+      "id": 1,
       "question": "If you could have any superpower, what would it be?"
     }
   ],
   "romantic": [
     {
-      "id": 1,
+      "id": 0,
       "question": "What's your idea of a perfect date?"
     },
     {
-      "id": 2,
+      "id": 1,
       "question": "How did you know you were in love for the first time?"
     }
   ],
   "would_you_rather": [
     {
-      "id": 1,
+      "id": 0,
       "question": "Would you rather travel to the past or the future?"
     },
     {
-      "id": 2,
+      "id": 1,
       "question": "Would you rather be able to speak all languages or be able to talk to animals?"
     }
   ],
   "personal": [
     {
-      "id": 1,
+      "id": 0,
       "question": "What are you most proud of in your life?"
     },
     {
-      "id": 2,
+      "id": 1,
       "question": "What's a challenge you've faced and how did you overcome it?"
     }
   ]
