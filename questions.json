@@ -7,6 +7,14 @@
     {
       "id": 1,
       "question": "If you could have any superpower, what would it be?"
+    },
+    {
+      "id": 2,
+      "question": "What's the best vacation you've ever had?"
+    },
+    {
+      "id": 3,
+      "question": "What's your favorite movie or TV show?"
     }
   ],
   "romantic": [
