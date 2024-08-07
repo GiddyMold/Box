@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the capital of France?",
+            "category": "Geography"
+        },
+        {
+            "id": 2,
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "category": "Literature"
+        },
+        {
+            "id": 3,
+            "question": "What is the chemical symbol for gold?",
+            "category": "Science"
+        },
+        {
+            "id": 4,
+            "question": "Which planet is known as the Red Planet?",
+            "category": "Astronomy"
+        },
+        {
+            "id": 5,
+            "question": "In what year did the Titanic sink?",
+            "category": "History"
+        },
+        {
+            "id": 6,
+            "question": "What is the largest mammal in the world?",
+            "category": "Biology"
+        },
+        {
+            "id": 7,
+            "question": "Who painted the Mona Lisa?",
+            "category": "Art"
+        },
+        {
+            "id": 8,
+            "question": "What is the smallest prime number?",
+            "category": "Mathematics"
+        },
+        {
+            "id": 9,
+            "question": "Which country hosted the 2016 Summer Olympics?",
+            "category": "Sports"
+        },
+        {
+            "id": 10,
+            "question": "What language is primarily spoken in Brazil?",
+            "category": "Language"
+        }
+    ]
+}
