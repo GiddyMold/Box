@@ -2,7 +2,7 @@
   "friendly": [
     {
       "id": 0,
-      "question": "What's your favorite way to spend a weekend?"
+      "question": "No more questions of this category"
     },
     {
       "id": 1,
@@ -20,7 +20,7 @@
   "romantic": [
     {
       "id": 0,
-      "question": "What's your idea of a perfect date?"
+      "question": "No more questions of this category"
     },
     {
       "id": 1,
@@ -30,7 +30,7 @@
   "would_you_rather": [
     {
       "id": 0,
-      "question": "Would you rather travel to the past or the future?"
+      "question": "No more questions of this category"
     },
     {
       "id": 1,
@@ -40,7 +40,7 @@
   "personal": [
     {
       "id": 0,
-      "question": "What are you most proud of in your life?"
+      "question": "No more questions of this category"
     },
     {
       "id": 1,
