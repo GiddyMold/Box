@@ -63,20 +63,6 @@
       "question": "What are your long-term personal goals?"
     }
   ],
-  "trivia": [
-    {
-      "id": 0,
-      "question": "No more questions of this category"
-    },
-    {
-      "id": 1,
-      "question": "Name 10 states that start with the letter 'A'."
-    },
-    {
-      "id": 2,
-      "question": "What are the top 3 tallest mountains in the world?"
-    }
-  ],
   "challenge": [
     {
       "id": 0,
