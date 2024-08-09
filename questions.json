@@ -6,19 +6,15 @@
     },
     {
       "id": 1,
-      "question": "If you could have any superpower, what would it be?"
+      "question": "Friendly Question 1"
     },
     {
       "id": 2,
-      "question": "What's the best vacation you've ever had?"
+      "question": "Friendly Question 2"
     },
     {
       "id": 3,
-      "question": "What's your favorite movie or TV show?"
-    },
-    {
-      "id": 4,
-      "question": "What's the most interesting place you've visited?"
+      "question": "Friendly Question 3"
     }
   ],
   "romantic": [
@@ -28,11 +24,19 @@
     },
     {
       "id": 1,
-      "question": "How did you know you were in love for the first time?"
+      "question": "Romantic Question 1"
     },
     {
       "id": 2,
-      "question": "What's your idea of a perfect date?"
+      "question": "Romantic Question 2"
+    },
+    {
+      "id": 3,
+      "question": "Romantic Question 3"
+    },
+    {
+      "id": 4,
+      "question": "Romantic Question 4"
     }
   ],
   "would_you_rather": [
@@ -42,25 +46,23 @@
     },
     {
       "id": 1,
-      "question": "Would you rather be able to speak all languages or be able to talk to animals?"
+      "question": "Would You Rather Question 1"
     },
     {
       "id": 2,
-      "question": "Would you rather explore space or the deep sea?"
-    }
-  ],
-  "personal": [
-    {
-      "id": 0,
-      "question": "No more questions of this category"
+      "question": "Would You Rather Question 2"
     },
     {
-      "id": 1,
-      "question": "What's a challenge you've faced and how did you overcome it?"
+      "id": 3,
+      "question": "Would You Rather Question 3"
     },
     {
-      "id": 2,
-      "question": "What are your long-term personal goals?"
+      "id": 4,
+      "question": "Would You Rather Question 4"
+    },
+    {
+      "id": 5,
+      "question": "Would You Rather Question 5"
     }
   ],
   "challenge": [
@@ -70,11 +72,61 @@
     },
     {
       "id": 1,
-      "question": "Tell me 5 countries that start with A"
+      "question": "Challenge Question 1"
     },
     {
       "id": 2,
-      "question": "What's the second tallest mountain?"
+      "question": "Challenge Question 2"
+    },
+    {
+      "id": 3,
+      "question": "Challenge Question 3"
+    },
+    {
+      "id": 4,
+      "question": "Challenge Question 4"
+    },
+    {
+      "id": 5,
+      "question": "Challenge Question 5"
+    },
+    {
+      "id": 6,
+      "question": "Challenge Question 6"
+    }
+  ],
+  "personal": [
+    {
+      "id": 0,
+      "question": "No more questions of this category"
+    },
+    {
+      "id": 1,
+      "question": "Personal Question 1"
+    },
+    {
+      "id": 2,
+      "question": "Personal Question 2"
+    },
+    {
+      "id": 3,
+      "question": "Personal Question 3"
+    },
+    {
+      "id": 4,
+      "question": "Personal Question 4"
+    },
+    {
+      "id": 5,
+      "question": "Personal Question 5"
+    },
+    {
+      "id": 6,
+      "question": "Personal Question 6"
+    },
+    {
+      "id": 7,
+      "question": "Personal Question 7"
     }
   ]
 }
